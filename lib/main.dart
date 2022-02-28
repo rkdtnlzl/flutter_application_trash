@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'changhyun is gold'),
+      home: const MyHomePage(title: 'changhyun'),
     );
   }
 }
